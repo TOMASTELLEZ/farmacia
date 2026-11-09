@@ -1,0 +1,5 @@
+com\clinica\farmacia\controller\MedicamentoController.class
+com\clinica\farmacia\repository\MedicamentoRepository.class
+com\clinica\farmacia\Farmacia.class
+com\clinica\farmacia\model\Medicamento.class
+com\clinica\farmacia\service\MedicamentoService.class
